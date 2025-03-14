@@ -1,0 +1,6 @@
+@JobProfileMaker.WebAPI_HostAddress = http://localhost:5215
+
+GET {{JobProfileMaker.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

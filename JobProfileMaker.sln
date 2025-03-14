@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobProfileMaker.core", "JobProfileMaker.core\JobProfileMaker.core.csproj", "{559A4AD4-2305-45A6-849B-9C9B67515900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobProfileMaker.Infrastructure", "JobProfileMaker.Infrastructure\JobProfileMaker.Infrastructure.csproj", "{F3C57F38-77C2-4599-ABBE-8839B3E4D488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobProfileMaker.WebAPI", "JobProfileMaker.WebAPI\JobProfileMaker.WebAPI.csproj", "{015A8451-2CDB-4EA1-9E88-E4EA23365EE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{559A4AD4-2305-45A6-849B-9C9B67515900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559A4AD4-2305-45A6-849B-9C9B67515900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559A4AD4-2305-45A6-849B-9C9B67515900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559A4AD4-2305-45A6-849B-9C9B67515900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C57F38-77C2-4599-ABBE-8839B3E4D488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C57F38-77C2-4599-ABBE-8839B3E4D488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C57F38-77C2-4599-ABBE-8839B3E4D488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C57F38-77C2-4599-ABBE-8839B3E4D488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{015A8451-2CDB-4EA1-9E88-E4EA23365EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015A8451-2CDB-4EA1-9E88-E4EA23365EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015A8451-2CDB-4EA1-9E88-E4EA23365EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015A8451-2CDB-4EA1-9E88-E4EA23365EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
