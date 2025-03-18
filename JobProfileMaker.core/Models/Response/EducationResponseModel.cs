@@ -1,9 +1,10 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using JobProfileMaker.core.Entities;
 
-namespace JobProfileMaker.core.Entities;
+namespace JobProfileMaker.core.Models.Response;
 
-public class Education
+public class EducationResponseModel
 {
     public int Id { get; set; }
     [Required][StringLength(100)]

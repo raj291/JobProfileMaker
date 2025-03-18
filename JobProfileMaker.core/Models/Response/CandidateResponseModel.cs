@@ -1,9 +1,10 @@
 using System.ComponentModel.DataAnnotations;
+using JobProfileMaker.core.Entities;
 using JobProfileMaker.core.ValueObject;
 
-namespace JobProfileMaker.core.Entities;
+namespace JobProfileMaker.core.Models.Response;
 
-public class Candidate
+public class CandidateResponseModel
 {
     public int Id { get; set; }
     [Required][StringLength(50)]
