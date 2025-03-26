@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HA2K2DRUBc3e+EzzzhBQLLqYreM+pTAc1SouuzYhp9F1c3gwvwQJJZxusl9G+Jn7/Q7l3Oyui5ld+vDzJCp28Q==",
+  "dgSpecHash": "6EWVkTccLOaT3/fi9rN2SovXmbXGSN08B/x/Efer4zpsATNqU7hBbkNGPhFszpUEZMuWxwaFfTRyiRJdjEuFdQ==",
   "success": true,
   "projectFilePath": "/Users/rajmahadik/Documents/Getalife/JobProfileMaker/JobProfileMaker.WebAPI/JobProfileMaker.WebAPI.csproj",
   "expectedPackageFiles": [
+    "/Users/rajmahadik/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
     "/Users/rajmahadik/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/rajmahadik/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
     "/Users/rajmahadik/.nuget/packages/entityframework/6.5.1/entityframework.6.5.1.nupkg.sha512",
