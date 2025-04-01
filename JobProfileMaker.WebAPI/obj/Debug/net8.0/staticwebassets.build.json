@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NqkpgNMIYRKD5nbJQtUVrbYCqbshjO+wRQDw4ivbEEY=",
+  "Source": "JobProfileMaker.WebAPI",
+  "BasePath": "_content/JobProfileMaker.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

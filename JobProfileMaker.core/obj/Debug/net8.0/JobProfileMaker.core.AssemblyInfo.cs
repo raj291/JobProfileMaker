@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JobProfileMaker.core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a44f381610995791d8ca19f3e44f7adeb9490881")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f94dede4048edaabf87281f73408adf244b90a1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("JobProfileMaker.core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JobProfileMaker.core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

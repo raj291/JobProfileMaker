@@ -1,0 +1,15 @@
+/Users/rajmahadik/Documents/Getalife/JobProfileMaker/JobProfileMaker.core/bin/Debug/net8.0/JobProfileMaker.core.deps.json
+/Users/rajmahadik/Documents/Getalife/JobProfileMaker/JobProfileMaker.core/bin/Debug/net8.0/JobProfileMaker.core.runtimeconfig.json
+/Users/rajmahadik/Documents/Getalife/JobProfileMaker/JobProfileMaker.core/bin/Debug/net8.0/JobProfileMaker.core.dll
+/Users/rajmahadik/Documents/Getalife/JobProfileMaker/JobProfileMaker.core/bin/Debug/net8.0/JobProfileMaker.core.pdb
+/Users/rajmahadik/Documents/Getalife/JobProfileMaker/JobProfileMaker.core/obj/Debug/net8.0/JobProfileMaker.core.csproj.AssemblyReference.cache
+/Users/rajmahadik/Documents/Getalife/JobProfileMaker/JobProfileMaker.core/obj/Debug/net8.0/JobProfileMaker.core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajmahadik/Documents/Getalife/JobProfileMaker/JobProfileMaker.core/obj/Debug/net8.0/JobProfileMaker.core.AssemblyInfoInputs.cache
+/Users/rajmahadik/Documents/Getalife/JobProfileMaker/JobProfileMaker.core/obj/Debug/net8.0/JobProfileMaker.core.AssemblyInfo.cs
+/Users/rajmahadik/Documents/Getalife/JobProfileMaker/JobProfileMaker.core/obj/Debug/net8.0/JobProfileMaker.core.csproj.CoreCompileInputs.cache
+/Users/rajmahadik/Documents/Getalife/JobProfileMaker/JobProfileMaker.core/obj/Debug/net8.0/JobProfileMaker.core.sourcelink.json
+/Users/rajmahadik/Documents/Getalife/JobProfileMaker/JobProfileMaker.core/obj/Debug/net8.0/JobProfileMaker.core.dll
+/Users/rajmahadik/Documents/Getalife/JobProfileMaker/JobProfileMaker.core/obj/Debug/net8.0/refint/JobProfileMaker.core.dll
+/Users/rajmahadik/Documents/Getalife/JobProfileMaker/JobProfileMaker.core/obj/Debug/net8.0/JobProfileMaker.core.pdb
+/Users/rajmahadik/Documents/Getalife/JobProfileMaker/JobProfileMaker.core/obj/Debug/net8.0/JobProfileMaker.core.genruntimeconfig.cache
+/Users/rajmahadik/Documents/Getalife/JobProfileMaker/JobProfileMaker.core/obj/Debug/net8.0/ref/JobProfileMaker.core.dll
